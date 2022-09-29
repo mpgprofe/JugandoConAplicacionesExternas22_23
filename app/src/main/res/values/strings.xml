@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JugandoConAplicacionesExternas22_23</string>
+    <string name="saludo">Hola, ¿Cómo estás?</string>
+    <string name="nota_informativa">Elige tu navegador favorito</string>
+    <string name="debes_instalar_whatsapp">Debes instalar whatsapp</string>
+    <string name="lanzarweb">Lanzar web</string>
+    <string name="lanzarWhatsapp">Lanzar Whatsapp</string>
 </resources>

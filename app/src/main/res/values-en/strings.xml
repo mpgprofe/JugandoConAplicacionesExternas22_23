@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JugandoConAplicacionesExternas22_23</string>
+    <string name="saludo">Hello, How are you?</string>
+    <string name="nota_informativa">choose your favourite web browser</string>
+    <string name="debes_instalar_whatsapp">You must install whatsapp</string>
+    <string name="lanzarweb">Run web</string>
+    <string name="lanzarWhatsapp">Run Whatsapp</string>
+</resources>
